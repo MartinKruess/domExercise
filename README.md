@@ -16,6 +16,7 @@ Nicht fertig: &#9744;
 |---|---|---|
 | Aufgabe gelesen | leicht | &#9744; |
 | Plane dein Vorgehen (unten) grob | leicht | &#9744; |
+| Lege einen Branch mit deinem Namen an, pushe regelmäßig und erzeuge einen Pull Request, damit ich zwischen durch mal rein schauen kann | leicht | &#9744; |
 | max. 4-6 Arbeitsstunden | leicht | time? |
 | Styling max. 100 Zeilen ca. 1h Arbeitszeit | leicht | lines? |
 | Style die Rezeptkarten und das Formular| mittel | &#9744; |
