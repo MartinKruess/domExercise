@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "es6": "^0.0.7"
+  }
+}
