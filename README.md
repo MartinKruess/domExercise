@@ -12,34 +12,35 @@ Fertig: &#9745;
 
 Nicht fertig: &#9744;
 
-| Beschreibung | Schwierigkeitsgrad | Ergebnis|
-|---|---|---|
-| Aufgabe gelesen | leicht | &#9744; |
-| Plane dein Vorgehen (unten) grob | leicht | &#9744; |
-| Lege einen Branch mit deinem Namen an, pushe regelmäßig und erzeuge einen Pull Request, damit ich zwischen durch mal rein schauen kann | leicht | &#9744; |
-| max. 4-6 Arbeitsstunden | leicht | time? |
-| Styling max. 100 Zeilen ca. 1h Arbeitszeit | leicht | lines? |
-| Style die Rezeptkarten und das Formular| mittel | &#9744; |
-| Daten sollten Ausgelagert werden (ES6 Modules) | mittel | &#9744; |
-| Lege die rezeptDaten als Array of Objekts an | leicht | &#9744; |
-| Lege die userDaten als Array of Objekts an (userName, password und 1-3 Lieblingsrezepte) | leicht | &#9744; |
-| Suche dir 5-10 Rezepte raus | leicht | &#9744; |
-| importiere die Rezepte in deine JS-Datei | leicht | &#9744; |
-| Gib alle Rezepte in Rezeptkarten aus (siehe Bild) | schwer | &#9744; |
-| Baue ein Login Formular auf | mittel | &#9744;|
-| Werte die Login-Daten (userName und password) aus | mittel | &#9744; |
-| Wenn der User sich eingeloggt hat, gebe seinen userName aus | mittel | &#9744; |
-| Klickt der User auf Logout, lösche die userDaten | mittel | &#9744; |
-| Ein erneuter Login sollte weiterhin möglich sein | schwer | &#9744; |
-| Ist der user eingeloggt sollten nur noch seine Lieblingsrezepte angezeigt werden | schwer | &#9744; |
+| Beschreibung                                                                                                                           | Schwierigkeitsgrad | Ergebnis |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
+| Aufgabe gelesen                                                                                                                        | leicht             | &#9744;  |
+| Plane dein Vorgehen (unten) grob                                                                                                       | leicht             | &#9744;  |
+| Lege einen Branch mit deinem Namen an, pushe regelmäßig und erzeuge einen Pull Request, damit ich zwischen durch mal rein schauen kann | leicht             | &#9744;  |
+| max. 4-6 Arbeitsstunden                                                                                                                | leicht             | time?    |
+| Styling max. 100 Zeilen ca. 1h Arbeitszeit                                                                                             | leicht             | lines?   |
+| Style die Rezeptkarten und das Formular                                                                                                | mittel             | &#9744;  |
+| Daten sollten Ausgelagert werden (ES6 Modules)                                                                                         | mittel             | &#9744;  |
+| Lege die rezeptDaten als Array of Objekts an                                                                                           | leicht             | &#9744;  |
+| Lege die userDaten als Array of Objekts an (userName, password und 1-3 Lieblingsrezepte)                                               | leicht             | &#9744;  |
+| Suche dir 5-10 Rezepte raus                                                                                                            | leicht             | &#9744;  |
+| importiere die Rezepte in deine JS-Datei                                                                                               | leicht             | &#9744;  |
+| Gib alle Rezepte in Rezeptkarten aus (siehe Bild)                                                                                      | schwer             | &#9744;  |
+| Baue ein Login Formular auf                                                                                                            | mittel             | &#9744;  |
+| Werte die Login-Daten (userName und password) aus                                                                                      | mittel             | &#9744;  |
+| Wenn der User sich eingeloggt hat, gebe seinen userName aus                                                                            | mittel             | &#9744;  |
+| Klickt der User auf Logout, lösche die userDaten                                                                                       | mittel             | &#9744;  |
+| Ein erneuter Login sollte weiterhin möglich sein                                                                                       | schwer             | &#9744;  |
+| Ist der user eingeloggt sollten nur noch seine Lieblingsrezepte angezeigt werden                                                       | schwer             | &#9744;  |
+
+## Teste ob alles funktioniert
+
+<img src="./images/previewMD/testOutput.png"
+     alt="Markdown Monster icon"
+     style="width: 30rem" />
 
 ### Notizen:
 
-
-
-
-
 ### Planung
-
 
 ### Feedback
