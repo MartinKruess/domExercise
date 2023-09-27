@@ -28,15 +28,15 @@ Im HTML & CSS Modul hast du eine Rezeptseite aufgebaut, du kannst diese verwende
 | Klickt der User auf Logout, lösche die gespeicherten userDaten und zeige erneut den Login an | mittel             |
 | Ist der user eingeloggt sollten nur noch seine Lieblingsrezepte angezeigt werden             | schwer             |
 
-## Testing
-
-### Test 1
+### Output der importierten Daten
 
 Denke an: type="module", export, import ... .js
 
 <img src="./images/previewMarkdown/testOutput.png"
      alt="Rezept- und userData output in console"
      style="width: 30rem" />
+
+### Output der Rezepte
 
 <img src="./images/previewMarkdown/cards.png"
      alt="RezeptCards auf der Seite"
