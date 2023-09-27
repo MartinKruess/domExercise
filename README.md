@@ -4,39 +4,42 @@ Die README.md in der Preview anzusehen bietet große Vorteile! ^^
 
 Im HTML & CSS Modul hast du eine Rezeptseite aufgebaut, du kannst diese verwenden oder zur Übung eine neue Rezeptseite aufbauen. In diesem Projekt geht es zwar nicht in erster Linie um das Styling, dennoch kann eine kleine Auffrischung nicht schaden. Das Ziel dieser Aufgabe ist eine Rezeptseite aufzubauen, die mit dynamischen Daten gefüllt ist und auf Userinteraktionen reagiert.
 
-## Randbedingungen
+## Vorbereitungen
 
-Wer möchte kann diese Checkliste gerne Abhaken um zu Kontrollieren ob jeder Schritt erfüllt wurde. Toll wäre auch, wenn ihr eure Benötigte Zeit (z.B. 6h 15 min), die benötigten CSS Zeilen (z.B. 101 Zeilen) eintagen könntet. Ebenfalls toll wäre, wenn ihr zusätliche gegooglte Techniken in das freie Feld eintagen könntet (z.B. Math.random(), querrySelector()).
+- lese die Aufgaben vorab durch
+- Plane dein Vorgehen (was wird ungefähr an Techniken benötigt?)
+- Lege einen Branch mit deinem Namen an, pushe regelmäßig und erzeuge einen Pull Request, falls ich zwischen durch mal rein schauen soll
+- Daten sollten Ausgelagert werden (ES6 Modules: import/export)
+-
 
-Fertig: &#9745;
+## Aufgaben
 
-Nicht fertig: &#9744;
+| Beschreibung                                                                                 | Schwierigkeitsgrad |
+| -------------------------------------------------------------------------------------------- | ------------------ |
+| Suche dir 5-10 Rezepte raus                                                                  | leicht             |
+| Lege die rezeptDaten als Array of Objekts an                                                 | leicht             |
+| importiere die Rezepte in deine JS-Datei                                                     | leicht             |
+| Gib alle Rezepte in Rezeptkarten aus (siehe Bild)                                            | schwer             |
+| Lege 2-3 User an mit userName, password und 1-3 Lieblingsrezepte                             | leicht             |
+| Baue ein Login Formular (HTML)                                                               | mittel             |
+| Werte die Login-Daten (userName und password) aus                                            | mittel             |
+| Wenn der User sich eingeloggt hat, gebe seinen userName aus                                  | mittel             |
+| Erzeuge einen Logout Button, der nur zu sehen ist, wenn der User eingelogt ist               | mittel             |
+| Klickt der User auf Logout, lösche die gespeicherten userDaten und zeige erneut den Login an | mittel             |
+| Ist der user eingeloggt sollten nur noch seine Lieblingsrezepte angezeigt werden             | schwer             |
 
-| Beschreibung                                                                                                                           | Schwierigkeitsgrad | Ergebnis |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
-| Aufgabe gelesen                                                                                                                        | leicht             | &#9744;  |
-| Plane dein Vorgehen (unten) grob                                                                                                       | leicht             | &#9744;  |
-| Lege einen Branch mit deinem Namen an, pushe regelmäßig und erzeuge einen Pull Request, damit ich zwischen durch mal rein schauen kann | leicht             | &#9744;  |
-| max. 4-6 Arbeitsstunden                                                                                                                | leicht             | time?    |
-| Styling max. 100 Zeilen ca. 1h Arbeitszeit                                                                                             | leicht             | lines?   |
-| Style die Rezeptkarten und das Formular                                                                                                | mittel             | &#9744;  |
-| Daten sollten Ausgelagert werden (ES6 Modules)                                                                                         | mittel             | &#9744;  |
-| Lege die rezeptDaten als Array of Objekts an                                                                                           | leicht             | &#9744;  |
-| Lege die userDaten als Array of Objekts an (userName, password und 1-3 Lieblingsrezepte)                                               | leicht             | &#9744;  |
-| Suche dir 5-10 Rezepte raus                                                                                                            | leicht             | &#9744;  |
-| importiere die Rezepte in deine JS-Datei                                                                                               | leicht             | &#9744;  |
-| Gib alle Rezepte in Rezeptkarten aus (siehe Bild)                                                                                      | schwer             | &#9744;  |
-| Baue ein Login Formular auf                                                                                                            | mittel             | &#9744;  |
-| Werte die Login-Daten (userName und password) aus                                                                                      | mittel             | &#9744;  |
-| Wenn der User sich eingeloggt hat, gebe seinen userName aus                                                                            | mittel             | &#9744;  |
-| Klickt der User auf Logout, lösche die userDaten                                                                                       | mittel             | &#9744;  |
-| Ein erneuter Login sollte weiterhin möglich sein                                                                                       | schwer             | &#9744;  |
-| Ist der user eingeloggt sollten nur noch seine Lieblingsrezepte angezeigt werden                                                       | schwer             | &#9744;  |
+## Testing
 
-## Teste ob alles funktioniert
+### Test 1
 
-<img src="./images/previewMD/testOutput.png"
-     alt="Markdown Monster icon"
+Denke an: type="module", export, import ... .js
+
+<img src="./images/previewMarkdown/testOutput.png"
+     alt="Rezept- und userData output in console"
+     style="width: 30rem" />
+
+<img src="./images/previewMarkdown/cards.png"
+     alt="RezeptCards auf der Seite"
      style="width: 30rem" />
 
 ### Notizen:
